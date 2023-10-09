@@ -1,0 +1,4 @@
+Datetime==5.1
+boto3==1.26.165
+pandas==2.1.1
+s3fs==0.4.2
